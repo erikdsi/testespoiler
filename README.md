@@ -5,10 +5,15 @@ Este repositório contêm uma página com um mapa que permite que pontos no mapa
 ## Descrição das tarefas a serem executadas
 
 Adiocione na página existe, a funcionalidade de apagar pontos.
+
 Desenvolva uma página em que o usuário possa escolher entre dois pontos cadastrados e mostre o ponto médio entre esses dois pontos em um mapa.
+
 Deve ser possível visualizar vários pontos médios no mesmo mapa.
+
 Deve haver um botão, que ao clicado, salve os pontos médios no banco.
+
 Os pontos médios devem ser salvos com o endereço, a latitude e longitude.
+
 Não deve ser utilizado o app admin do Django.
 
 Ao terminar sua solução, você deve criar um repositório privado no [bitbucket](https://bitbucket.org/) com seu código e dar permissão de visualização(VIEW) para **erikdsi**.
