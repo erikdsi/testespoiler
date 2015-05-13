@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Testespoiler</title>
+    <link rel="stylesheet" href="static/pontos.css">
+</head>
+<body>
+    <div id="main">
+        <div id="mapa"></div>
+        <div id="opcoes">
+            <div id="endereco">Clique no mapa para escolher um endereço.</div>
+            {% csrf_token %}
+            <button type="button" id="adicionar-endereco">Adicionar Endereço</button>
+            <div id="lista">
+                {% for ponto in pontos %}
+                    <div>{{ponto.endereco}}</div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src="static/pontos.js"></script>
+</body>
+</html>
