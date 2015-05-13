@@ -1,10 +1,10 @@
 # Instruções
 
-Este repositório contêm uma página com um mapa que permite que pontos no mapa sejam salvos com endereço, latitude e longitude.
+Este repositório contém uma página com um mapa que permite que pontos no mapa sejam salvos com endereço, latitude e longitude.
 
 ## Descrição das tarefas a serem executadas
 
-Adicione na página existe, a funcionalidade de apagar pontos.
+Adicione na página existente a funcionalidade de apagar pontos do banco de dados.
 
 Desenvolva uma página em que o usuário possa escolher entre dois pontos cadastrados e mostre o ponto médio entre esses dois pontos em um mapa.
 
