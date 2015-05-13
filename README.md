@@ -32,6 +32,8 @@ Django: https://docs.djangoproject.com/en/1.8/intro/tutorial01/
 
 Javascript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+jQuery: http://api.jquery.com/
+
 Google Maps: https://developers.google.com/maps/documentation/javascript/examples/map-simple
 
 Vagrant: https://docs.vagrantup.com/v2/
