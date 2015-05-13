@@ -4,7 +4,7 @@ Este repositório contêm uma página com um mapa que permite que pontos no mapa
 
 ## Descrição das tarefas a serem executadas
 
-Adiocione na página existe, a funcionalidade de apagar pontos.
+Adicione na página existe, a funcionalidade de apagar pontos.
 
 Desenvolva uma página em que o usuário possa escolher entre dois pontos cadastrados e mostre o ponto médio entre esses dois pontos em um mapa.
 
